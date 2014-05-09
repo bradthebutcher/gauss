@@ -11,4 +11,7 @@ class GaussianRational:
         return GaussianRational(self.x-right.x, self.y-right.y)
     def __crazy__(self, crazy):
         return 'I'm crazy'
+    def __LOUDNOISES__(self,LOUDNOISES):
+        return 'LOUDDDDD NOISES *Brick voice*'
+
 
